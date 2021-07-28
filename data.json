@@ -1,0 +1,11 @@
+[
+  {"value": 5.0, "anotherValue": 3.4, "species": "setosa"},
+  {"value": 4.4, "anotherValue": 2.9, "species": "setosa"},
+  {"value": 4.9, "anotherValue": 3.1, "species": "setosa"},
+  {"value": 5.4, "anotherValue": 3.7, "species": "setosa"},
+  {"value": 4.8, "anotherValue": 3.4, "species": "setosa"},
+  {"value": 4.8, "anotherValue": 3.0, "species": "setosa"},
+  {"value": 4.3, "anotherValue": 3.0, "species": "setosa"},
+  {"value": 5.8, "anotherValue": 4.0, "species": "setosa"},
+  {"value": 5.7, "anotherValue": 4.4, "species": "setosa"}
+]
